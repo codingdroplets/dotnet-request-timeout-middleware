@@ -27,10 +27,10 @@ Beginner-friendly ASP.NET Core Minimal API sample that demonstrates request time
 
 ## Getting Started
 ```bash
-/home/ubuntu/.dotnet/dotnet restore
-/home/ubuntu/.dotnet/dotnet build
-/home/ubuntu/.dotnet/dotnet test
-/home/ubuntu/.dotnet/dotnet run --project DotNetRequestTimeoutMiddleware
+dotnet restore
+dotnet build
+dotnet test
+dotnet run --project DotNetRequestTimeoutMiddleware
 ```
 
 Swagger opens automatically at `/swagger` in local launch profiles.
