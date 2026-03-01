@@ -46,5 +46,5 @@ Swagger opens automatically at `/swagger` in local launch profiles.
 - Initial release tag: `v1.0.0`
 
 ## Author / Maintainer
-Visit Now: https://codingdroplets.com
-Join our Patreon to Learn & Level Up: https://www.patreon.com/codingdroplets
+- Visit Now: https://codingdroplets.com
+- Join our Patreon to Learn & Level Up: https://www.patreon.com/codingdroplets
